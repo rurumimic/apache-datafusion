@@ -1,0 +1,6 @@
+[workspace]
+members = ["datafusion-examples"]
+
+[workspace.package]
+publish = false
+
